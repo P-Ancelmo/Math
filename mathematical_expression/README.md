@@ -21,9 +21,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `linguagem C`
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar, siga estas etapas:
 
 Compile o programa
 ```
